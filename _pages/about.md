@@ -22,8 +22,8 @@ I am currently a PhD candidate at the [Centre for Computational Finance and Econ
 ## Recent News ##
 * **Jan 2023** - One paper accepted to *[AAMAS 2023](https://aamas2023.soton.ac.uk/)*: "Debt Transfer in Financial Networks: Complexity and Equilibria" (with M. Kyropoulou, P. Kanellopoulos)
 * **Oct 2022** - Won the third prize of Student Poster Presentation at *[BCS Meeting 2022](https://www.britishdatasciencesociety.org/)*
-* **Apr 2022** - One paper accepted to *[IJCAI 2022](https://ijcai-22.org/)*: "Forgiving Debt in Financial Networks"(with M. Kyropoulou, P. Kanellopoulos)
-* **Dec 2021** - One paper accepted to *[AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/)*: "Forgiving Debt in Financial Networks(Extended Abstract)"(with M. Kyropoulou, P. Kanellopoulos)
-* **Oct 2021** - One paper accepted to *[ICAIF 2021](https://ai-finance.org/icaif21/)*: "Financial Network Games"(with M. Kyropoulou, P. Kanellopoulos)
+* **Apr 2022** - One paper accepted to *[IJCAI 2022](https://ijcai-22.org/)*: "Forgiving Debt in Financial Networks" (with M. Kyropoulou, P. Kanellopoulos)
+* **Dec 2021** - One paper accepted to *[AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/)*: "Forgiving Debt in Financial Networks(Extended Abstract)" (with M. Kyropoulou, P. Kanellopoulos)
+* **Oct 2021** - One paper accepted to *[ICAIF 2021](https://ai-finance.org/icaif21/)*: "Financial Network Games" (with M. Kyropoulou, P. Kanellopoulos)
 * Lincoln Selected to Showcase Net Zero <a href="https://youtu.be/vf39leUbBGE?list=PLBcbsScUorznzrIPH2McQsv71rXEhABDY" target="_blank" rel="noopener noreferrer">Robotic Farming</a> at COP26.
 * 
