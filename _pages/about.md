@@ -21,7 +21,7 @@ I am currently a PhD candidate at the [Centre for Computational Finance and Econ
 
 ## Recent News ##
 * Jan 2023 - One paper accepted to *[AAMAS 2023](https://aamas2023.soton.ac.uk/)*: "Debt Transfer in Financial Networks: Complexity and Equilibria" (with M. Kyropoulou, P. Kanellopoulos)
-* Oct 2022 - Won the third prize of Student Poster Presentation at *BCS Meeting*
+* Oct 2022 - Won the third prize of Student Poster Presentation at *[BCS Meeting](https://www.britishdatasciencesociety.org/)*
 * Apr 2022 - One paper accepted to *[IJCAI 2022](https://ijcai-22.org/)*: "Forgiving Debt in Financial Networks"(with M. Kyropoulou, P. Kanellopoulos)
 * Dec 2021 - One paper accepted to *[AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/)*: "Forgiving Debt in Financial Networks(Extended Abstract)"(with M. Kyropoulou, P. Kanellopoulos)
 * Oct 2021 - One paper accepted to *[ICAIF 2021](https://ai-finance.org/icaif21/)*: "Financial Network Games"(with M. Kyropoulou, P. Kanellopoulos)
