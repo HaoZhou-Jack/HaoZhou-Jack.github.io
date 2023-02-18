@@ -20,5 +20,7 @@ I am currently a PhD candidate at the [Centre for Computational Finance and Econ
 
 
 ## Recent News ##
-* Nov 2021 - Lincoln Selected to Showcase Net Zero <a href="https://youtu.be/vf39leUbBGE?list=PLBcbsScUorznzrIPH2McQsv71rXEhABDY" target="_blank" rel="noopener noreferrer">Robotic Farming</a> at COP26.
+* Jan 2023 - One paper accepted to AAMAS 2023: "Debt Transfer in Financial Networks: Complexity and Equilibria" (with M. Kyropoulou, P. Kanellopoulos)
+* Oct 2022 - Won the third prize of Student Poster Presentation at BCS Meeting
+* 023 - Lincoln Selected to Showcase Net Zero <a href="https://youtu.be/vf39leUbBGE?list=PLBcbsScUorznzrIPH2McQsv71rXEhABDY" target="_blank" rel="noopener noreferrer">Robotic Farming</a> at COP26.
 * 
